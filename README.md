@@ -66,7 +66,7 @@ Usage:
 Users input coin details, and the narrator generates content which can be used in social media posts, websites, 
 or community channels.
 
-# RaidarDashbord
+# RaidarDashboard
 Function: Provides an analytical view of how memecoins are performing over time, including:
 - Price charts
 - Trading volume
