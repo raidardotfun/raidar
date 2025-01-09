@@ -8,7 +8,7 @@ import requests
 from transformers import pipeline
 
 def fetch_memecoin_data():
-    client = Client("YOUR_SOLANA_RPC_URL")
+    client = Client("https://api.mainnet-beta.solana.com")
     
     memecoins = client.get_memecoins()  # Placeholder
     
