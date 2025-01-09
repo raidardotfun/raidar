@@ -1,4 +1,4 @@
-# raidardot - raidar.fun - $raidar
+# raidardotfun - raidar.fun - $raidar
 
 ## Overview
 raidar is an AI-driven toolset designed for interacting with memecoins on the Solana blockchain, especially those launched via pump.fun. It leverages AI Agents, LLMs, and sophisticated analytics to provide users with the tools needed to navigate the memecoin market.
