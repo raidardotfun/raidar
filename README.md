@@ -1,20 +1,15 @@
 # raidardotfun - raidar.fun - $raidar
 
 ## Overview
-raidar is an AI-driven toolset designed for interacting with memecoins on the Solana blockchain, especially those launched via pump.fun. It leverages AI Agents, LLMs, and sophisticated analytics to provide users with the tools needed to navigate the memecoin market.
-
-## Features
-
-- **The Raidar**: Detects and predicts the potential of new memecoin launches.
-- **RaidarAutoTrader**: Automates or suggests trades based on real-time market analysis.
-- **RaidarLLMNarrator**: Generates unique narratives to engage communities around memecoins.
-- **RaidarDashboard**: Visualizes trends, price, and volume of memecoins for better decision-making.
+raidar is an AI-driven toolset designed for interacting with memecoins on the Solana blockchain, 
+especially those launched via pump.fun. It leverages AI Agents, LLMs, 
+and sophisticated analytics to provide users with the tools needed to navigate the memecoin market.
 
 ## Getting Started
 
 1. **Installation**:
-   - Clone the repository: `git clone [repo-url]`
-   - Install Python dependencies: `pip install -r requirements.txt`
+   - Clone the repository: `git clone [https://github.com/raidardotfun/raidar]`
+   - Install Python dependencies: `pip install raidar`
    - Install Rust and Solana CLI for blockchain interactions.
 
 2. **Setup**:
@@ -81,6 +76,14 @@ Implementation:
 Python with matplotlib for data visualization, creating dynamic charts based on incoming data:
 - Data is fetched from blockchain explorers, APIs, or directly from Solana nodes.
 - The dashboard can be updated in real-time or on a schedule.
+
+## Features
+
+- **The Raidar**: Detects and predicts the potential of new memecoin launches by analyzing social media trends and
+on-chain narratives.
+- **RaidarAutoTrader**: Automates or suggests trades based on real-time market analysis.
+- **RaidarLLMNarrator**: Generates unique narratives to engage communities around memecoins.
+- **RaidarDashboard**: Visualizes trends, price, and volume of memecoins for better decision-making.
 
 ## Usage
 - Use `Raidar` to scan for promising new memecoins.
