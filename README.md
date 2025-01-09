@@ -1,4 +1,5 @@
 # raidardotfun - raidar.fun - $raidar
+![raidar](https://github.com/user-attachments/assets/a3197575-ad40-493b-a53b-88904b301817)
 
 ## Overview
 raidar is an AI-driven toolset designed for interacting with memecoins on the Solana blockchain, 
